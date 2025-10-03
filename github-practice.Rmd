@@ -4,7 +4,7 @@ subtitle: "SDS 192"
 author: 
 - name: Blair Pasarkar
   affiliation: Smith College
-- name: Author Two
+- name: Amelia Dion
   affiliation: Smith College
 - name: Author Three
   affiliation: Smith College

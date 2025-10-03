@@ -44,5 +44,5 @@ dim(pioneer_valley_2013)
 
 ```{r}
 #Check the column names for pioneer_valley_2013.
-names(pioneer_valley_2013)
+ncol(pioneer_valley_2013)
 ```

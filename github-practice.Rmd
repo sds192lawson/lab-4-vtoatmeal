@@ -2,7 +2,7 @@
 title: "SDS 192 Assignment"
 subtitle: "SDS 192"
 author: 
-- name: Jericho Lawson
+- name: Blair Pasarkar
   affiliation: Smith College
 - name: Author Two
   affiliation: Smith College

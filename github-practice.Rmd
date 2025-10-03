@@ -37,7 +37,7 @@ pioneer_valley_2013 <- read.csv("https://raw.githubusercontent.com/SDS-192-Intro
 
 ```{r}
 #Check the dimensions for pioneer_valley_2013.
-nrow(pioneer_valley_2013)
+dim(pioneer_valley_2013)
 ```
 
 2. Check column names

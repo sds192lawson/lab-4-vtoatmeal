@@ -47,4 +47,5 @@ dim(pioneer_valley_2013)
 
 colnames(pioneer_valley_2013)
 
+#Grader: I saw the change in editing history but it seems to be accidentally covered (changing 'colnames' back to 'ncol') when fixing the merge conflict
 ```
